@@ -1,0 +1,18 @@
+.text-area {
+    margin: 10px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+  }
+  
+  .button {
+    width: fit-content;
+    padding: 5px;
+  }
+  
+  .item-align-end {
+    align-self: flex-end;
+  }
